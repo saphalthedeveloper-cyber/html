@@ -58,7 +58,23 @@ body{
 }
 p,h2,h3{
     color: black;
+    margin:10px;
 }
 #contact{
     margin: 20px;
+}
+h2{
+    text-align: center;
+}
+.shoptable{
+    margin: 10px;
+}
+button{
+    touch-action: initial;
+    cursor: pointer;
+    text-align: center;
+}
+
+td{
+    text-align: center;
 }
