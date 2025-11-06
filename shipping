@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saphal Guitar Shop</title>
+    <link rel="stylesheet" href="style.css">
+      <script src="practice.js"></script>
+</head>
+<body>
+        <header>
+        <div class="title">
+            <h1>"Where your journey to mastery begins."</h1>
+        </div>
+    </header>
+    <nav id="content">
+        <span class="navlink">
+              <ol>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Shop</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="guide.html">Guide</a></li>
+        </ol>
+    </span>
+      <span class="logo" >
+        <ol>
+            <li>
+                <img src="image/guitarlogo.png" alt="logo" width="100px" height="100px">
+            </li>
+        </ol>
+      </span>   
+    </nav>
+            <div id="shipping-imgs">
+                <div> <img src="image/blacked.jpg" class="shipguitarimg"  alt="black matra guitar" >
+                <h4>1000$</h4>
+                <button class="buttonn">
+                    BUY NOW!!
+                </button>
+            </div>
+            <div><img src="image/greened.jpg" class="shipguitarimg"  alt="green matra guitar" >
+                <h4>2000$</h4>
+                <button class="buttonn">
+                    BUY NOW!!
+                </button>
+            </div>
+            <div><img src="image/semiacousticguitar.jpg" class="shipguitarimg"  alt="semi acoustic matra guitar" >
+                <h4>4000$</h4>
+                <button class="buttonn">
+                    BUY NOW!!
+                </button>
+            </div>
+            <div><img src="image/blacked.jpg" class="shipguitarimg"  alt="blackmatra guitar" >
+                <br>
+                <h4>4000$</h4>
+                <button class="buttonn">
+                    BUY NOW!!
+                </button>
+            </div>
+            <div><img src="image/greened.jpg"class="shipguitarimg"  alt="green matra guitar" >
+                <br>
+                <h4>4000$</h4>
+                <button class="buttonn">
+                    BUY NOW!!
+                </button>
+            </div>
+            <div> <img src="image/semiacousticguitar.jpg" class="shipguitarimg"  alt="semi acoustic matra guitar" >
+                <button class="buttonn">
+                    BUY NOW!!
+                </button>
+            </div>
+            <div><img src="image/blacked.jpg" class="shipguitarimg"  alt="black matra guitar" >
+                <h4>2000$</h4>
+                <button class="buttonn">
+                    BUY NOW!!
+                </button>
+            </div>
+            <div><img src="image/greened.jpg" class="shipguitarimg"  alt="green matra guitar" >
+                <h4>4000$</h4>
+                <button class="buttonn">
+                    BUY NOW!!
+                </button>
+            </div>
+            <div><img src="image/semiacousticguitar.jpg" class="shipguitarimg"  alt="semi acoustic matra guitar" >
+                
+                <h4>4000$</h4>
+                <button class="buttonn">
+                    BUY NOW!!
+                </button>
+            </div>
+            </div>
+        <hr>
+        <footer>
+        <div>
+            <p>
+                SAPHAL GUITAR SHOP, we live and breathe guitars. From sharing tips
+                and lessons to creating covers and original music, our goal is to
+                inspire and connect with everyone who loves the sound of strings.
+            </p>
+        </div>
+    </footer>
+ 
+</body>
+</html>
