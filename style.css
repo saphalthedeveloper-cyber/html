@@ -130,6 +130,12 @@ h2 h4  {
 .guitar-img{
     width:250px ;
     height: 250px;
+    display: block;
+}
+.guitar-img1{
+    width:250px ;
+    height: 250px;
+    
 }
 
 .shipguitarimg{
@@ -139,3 +145,4 @@ h2 h4  {
    display: inline-block;
 
 }
+
